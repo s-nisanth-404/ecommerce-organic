@@ -1,0 +1,38 @@
+{
+  "name": "Organic Food",
+  "short_name": "Organic",
+  "description": "Organic is a system of farming and food production. Organic farmers aim to produce high-quality food, using methods that benefit our whole food system, from people to planet, plant health to animal welfare.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#007500",
+  "background_color": "#02FF02",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
